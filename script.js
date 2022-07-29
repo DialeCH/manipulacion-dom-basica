@@ -13,3 +13,4 @@ function sumarInputValues(event) {
     const sumaInputs = parseInt(input1.value) + parseInt(input2.value);
     pResult.innerHTML = 'Resultado: ' + sumaInputs;
 }
+ 
